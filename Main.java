@@ -19,7 +19,8 @@ public class Main {
         //changeArray();
         //System.out.println("Task4: ");
         //fillDagonal();
-        
+        //
+
     }
 
     // Задание 1. Задать целочисленный массив, состоящий из элементов 0 и 1.
